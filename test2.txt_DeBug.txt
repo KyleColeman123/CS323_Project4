@@ -1,0 +1,1549 @@
+[ ]80  
+[!]0  
+["]0  
+[#]0  
+[$]0  
+[%]0  
+[&]0  
+[']1  
+[(]0  
+[)]0  
+[*]0  
+[+]0  
+[,]4  
+[-]0  
+[.]3  
+[/]0  
+[0]0  
+[1]0  
+[2]0  
+[3]0  
+[4]0  
+[5]0  
+[6]0  
+[7]0  
+[8]0  
+[9]0  
+[:]0  
+[;]1  
+[<]0  
+[=]0  
+[>]0  
+[?]0  
+[@]0  
+[A]0  
+[B]1  
+[C]0  
+[D]0  
+[E]0  
+[F]0  
+[G]0  
+[H]1  
+[I]0  
+[J]0  
+[K]0  
+[L]0  
+[M]0  
+[N]0  
+[O]0  
+[P]0  
+[Q]0  
+[R]0  
+[S]1  
+[T]0  
+[U]0  
+[V]0  
+[W]0  
+[X]0  
+[Y]0  
+[Z]0  
+[[]0  
+[\]0  
+[]]0  
+[^]0  
+[_]0  
+[`]0  
+[a]38  
+[b]4  
+[c]5  
+[d]14  
+[e]39  
+[f]9  
+[g]6  
+[h]24  
+[i]22  
+[j]0  
+[k]12  
+[l]15  
+[m]7  
+[n]26  
+[o]22  
+[p]5  
+[q]0  
+[r]19  
+[s]32  
+[t]28  
+[u]2  
+[v]6  
+[w]5  
+[x]1  
+[y]7  
+[z]0  
+[{]0  
+[|]0  
+[}]0  
+[~]0  
+[]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[?]0  
+[ ]0  
+[¡]0  
+[¢]0  
+[£]0  
+[¤]0  
+[¥]0  
+[¦]0  
+[§]0  
+[¨]0  
+[©]0  
+[ª]0  
+[«]0  
+[¬]0  
+[­]0  
+[®]0  
+[¯]0  
+[°]0  
+[±]0  
+[²]0  
+[³]0  
+[´]0  
+[µ]0  
+[¶]0  
+[·]0  
+[¸]0  
+[¹]0  
+[º]0  
+[»]0  
+[¼]0  
+[½]0  
+[¾]0  
+[¿]0  
+[À]0  
+[Á]0  
+[Â]0  
+[Ã]0  
+[Ä]0  
+[Å]0  
+[Æ]0  
+[Ç]0  
+[È]0  
+[É]0  
+[Ê]0  
+[Ë]0  
+[Ì]0  
+[Í]0  
+[Î]0  
+[Ï]0  
+[Ð]0  
+[Ñ]0  
+[Ò]0  
+[Ó]0  
+[Ô]0  
+[Õ]0  
+[Ö]0  
+[×]0  
+[Ø]0  
+[Ù]0  
+[Ú]0  
+[Û]0  
+[Ü]0  
+[Ý]0  
+[Þ]0  
+[ß]0  
+[à]0  
+[á]0  
+[â]0  
+[ã]0  
+[ä]0  
+[å]0  
+[æ]0  
+[ç]0  
+[è]0  
+[é]0  
+[ê]0  
+[ë]0  
+[ì]0  
+[í]0  
+[î]0  
+[ï]0  
+[ð]0  
+[ñ]0  
+[ò]0  
+[ó]0  
+[ô]0  
+[õ]0  
+[ö]0  
+[÷]0  
+[ø]0  
+[ù]0  
+[ú]0  
+[û]0  
+[ü]0  
+[ý]0  
+[þ]0  
+[ÿ]0  
+[
+]8  
+chStr:dummy freq:0 code: 
+chStr:10 freq:8 code: 
+
+chStr:dummy freq:0 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:97 freq:38 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:10 freq:8 code: 
+chStr:97 freq:38 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:10 freq:8 code: 
+chStr:97 freq:38 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:10 freq:8 code: 
+chStr:100 freq:14 code: 
+chStr:97 freq:38 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:10 freq:8 code: 
+chStr:100 freq:14 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:100 freq:14 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:100 freq:14 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:100 freq:14 code: 
+chStr:104 freq:24 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:100 freq:14 code: 
+chStr:105 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:105 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:105 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:105 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:105 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:120 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:120 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:39 freq:1 code: 
+chStr:59 freq:1 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:120 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+chStr:dummy freq:0 code: 
+chStr:66 freq:1 code: 
+chStr:72 freq:1 code: 
+chStr:83 freq:1 code: 
+chStr:120 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:3959 freq:2 code:  leftStr:39 rightStr:59
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:83 freq:1 code: 
+chStr:120 freq:1 code: 
+chStr:117 freq:2 code: 
+chStr:3959 freq:2 code:  leftStr:39 rightStr:59
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:117 freq:2 code: 
+chStr:3959 freq:2 code:  leftStr:39 rightStr:59
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:83120 freq:2 code:  leftStr:83 rightStr:120
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:83120 freq:2 code:  leftStr:83 rightStr:120
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:1173959 freq:4 code:  leftStr:117 rightStr:3959
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:46 freq:3 code: 
+chStr:44 freq:4 code: 
+chStr:98 freq:4 code: 
+chStr:1173959 freq:4 code:  leftStr:117 rightStr:3959
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:98 freq:4 code: 
+chStr:1173959 freq:4 code:  leftStr:117 rightStr:3959
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:99 freq:5 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:112 freq:5 code: 
+chStr:119 freq:5 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:103 freq:6 code: 
+chStr:118 freq:6 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:107 freq:12 code: 
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:109 freq:7 code: 
+chStr:121 freq:7 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:107 freq:12 code: 
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:100 freq:14 code: 
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:10 freq:8 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:107 freq:12 code: 
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:100 freq:14 code: 
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:108 freq:15 code: 
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:102 freq:9 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:107 freq:12 code: 
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:100 freq:14 code: 
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:108 freq:15 code: 
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:107 freq:12 code: 
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:100 freq:14 code: 
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:108 freq:15 code: 
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:114 freq:19 code: 
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:107 freq:12 code: 
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:100 freq:14 code: 
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:108 freq:15 code: 
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:114 freq:19 code: 
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:100 freq:14 code: 
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:108 freq:15 code: 
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:114 freq:19 code: 
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:108 freq:15 code: 
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:114 freq:19 code: 
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:114 freq:19 code: 
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:105 freq:22 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:111 freq:22 code: 
+chStr:104 freq:24 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:110 freq:26 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:116 freq:28 code: 
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:115 freq:32 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:97 freq:38 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:101 freq:39 code: 
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:32 freq:80 code: 
+
+chStr:dummy freq:0 code: 
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:32 freq:80 code: 
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+
+chStr:dummy freq:0 code: 
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:32 freq:80 code: 
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+chStr:111104107103118110 freq:96 code:  leftStr:111104 rightStr:107103118110
+
+chStr:dummy freq:0 code: 
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:32 freq:80 code: 
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+chStr:111104107103118110 freq:96 code:  leftStr:111104 rightStr:107103118110
+chStr:116100109121108464410115 freq:118 code:  leftStr:116100109121 rightStr:108464410115
+
+chStr:dummy freq:0 code: 
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+chStr:111104107103118110 freq:96 code:  leftStr:111104 rightStr:107103118110
+chStr:116100109121108464410115 freq:118 code:  leftStr:116100109121 rightStr:108464410115
+chStr:9811739591021149732 freq:154 code:  leftStr:98117395910211497 rightStr:32
+
+chStr:dummy freq:0 code: 
+chStr:116100109121108464410115 freq:118 code:  leftStr:116100109121 rightStr:108464410115
+chStr:9811739591021149732 freq:154 code:  leftStr:98117395910211497 rightStr:32
+chStr:10166728312099112119105111104107103118110 freq:176 code:  leftStr:10166728312099112119105 rightStr:111104107103118110
+
+chStr:dummy freq:0 code: 
+chStr:10166728312099112119105111104107103118110 freq:176 code:  leftStr:10166728312099112119105 rightStr:111104107103118110
+chStr:1161001091211084644101159811739591021149732 freq:272 code:  leftStr:116100109121108464410115 rightStr:9811739591021149732
+
+chStr:dummy freq:0 code: 
+chStr:101667283120991121191051111041071031181101161001091211084644101159811739591021149732 freq:448 code:  leftStr:10166728312099112119105111104107103118110 rightStr:1161001091211084644101159811739591021149732
+
+chStr:101667283120991121191051111041071031181101161001091211084644101159811739591021149732 freq:448 code:  leftStr:10166728312099112119105111104107103118110 rightStr:1161001091211084644101159811739591021149732
+chStr:10166728312099112119105111104107103118110 freq:176 code:  leftStr:10166728312099112119105 rightStr:111104107103118110
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+chStr:101 freq:39 code:000
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:66 freq:1 code:00100000
+chStr:72 freq:1 code:00100001
+chStr:83120 freq:2 code:  leftStr:83 rightStr:120
+chStr:83 freq:1 code:00100010
+chStr:120 freq:1 code:00100011
+chStr:99 freq:5 code:001001
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:112 freq:5 code:001010
+chStr:119 freq:5 code:001011
+chStr:105 freq:22 code:0011
+chStr:111104107103118110 freq:96 code:  leftStr:111104 rightStr:107103118110
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:111 freq:22 code:0100
+chStr:104 freq:24 code:0101
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:107 freq:12 code:01100
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:103 freq:6 code:011010
+chStr:118 freq:6 code:011011
+chStr:110 freq:26 code:0111
+chStr:1161001091211084644101159811739591021149732 freq:272 code:  leftStr:116100109121108464410115 rightStr:9811739591021149732
+chStr:116100109121108464410115 freq:118 code:  leftStr:116100109121 rightStr:108464410115
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:116 freq:28 code:1000
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:100 freq:14 code:10010
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:109 freq:7 code:100110
+chStr:121 freq:7 code:100111
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:108 freq:15 code:10100
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:46 freq:3 code:1010100
+chStr:44 freq:4 code:1010101
+chStr:10 freq:8 code:101011
+chStr:115 freq:32 code:1011
+chStr:9811739591021149732 freq:154 code:  leftStr:98117395910211497 rightStr:32
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:98 freq:4 code:1100000
+chStr:1173959 freq:4 code:  leftStr:117 rightStr:3959
+chStr:117 freq:2 code:11000010
+chStr:3959 freq:2 code:  leftStr:39 rightStr:59
+chStr:39 freq:1 code:110000110
+chStr:59 freq:1 code:110000111
+chStr:102 freq:9 code:110001
+chStr:114 freq:19 code:11001
+chStr:97 freq:38 code:1101
+chStr:32 freq:80 code:111
+chStr:101 freq:39 code:000
+chStr:10166728312099112119105 freq:80 code:  leftStr:101 rightStr:66728312099112119105
+chStr:66 freq:1 code:00100000
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:72 freq:1 code:00100001
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:83 freq:1 code:00100010
+chStr:83120 freq:2 code:  leftStr:83 rightStr:120
+chStr:120 freq:1 code:00100011
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:99 freq:5 code:001001
+chStr:66728312099112119 freq:19 code:  leftStr:66728312099 rightStr:112119
+chStr:112 freq:5 code:001010
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:119 freq:5 code:001011
+chStr:66728312099112119105 freq:41 code:  leftStr:66728312099112119 rightStr:105
+chStr:105 freq:22 code:0011
+chStr:10166728312099112119105111104107103118110 freq:176 code:  leftStr:10166728312099112119105 rightStr:111104107103118110
+chStr:111 freq:22 code:0100
+chStr:111104 freq:46 code:  leftStr:111 rightStr:104
+chStr:104 freq:24 code:0101
+chStr:111104107103118110 freq:96 code:  leftStr:111104 rightStr:107103118110
+chStr:107 freq:12 code:01100
+chStr:107103118 freq:24 code:  leftStr:107 rightStr:103118
+chStr:103 freq:6 code:011010
+chStr:103118 freq:12 code:  leftStr:103 rightStr:118
+chStr:118 freq:6 code:011011
+chStr:107103118110 freq:50 code:  leftStr:107103118 rightStr:110
+chStr:110 freq:26 code:0111
+chStr:101667283120991121191051111041071031181101161001091211084644101159811739591021149732 freq:448 code:  leftStr:10166728312099112119105111104107103118110 rightStr:1161001091211084644101159811739591021149732
+chStr:116 freq:28 code:1000
+chStr:116100109121 freq:56 code:  leftStr:116 rightStr:100109121
+chStr:100 freq:14 code:10010
+chStr:100109121 freq:28 code:  leftStr:100 rightStr:109121
+chStr:109 freq:7 code:100110
+chStr:109121 freq:14 code:  leftStr:109 rightStr:121
+chStr:121 freq:7 code:100111
+chStr:116100109121108464410115 freq:118 code:  leftStr:116100109121 rightStr:108464410115
+chStr:108 freq:15 code:10100
+chStr:108464410 freq:30 code:  leftStr:108 rightStr:464410
+chStr:46 freq:3 code:1010100
+chStr:4644 freq:7 code:  leftStr:46 rightStr:44
+chStr:44 freq:4 code:1010101
+chStr:464410 freq:15 code:  leftStr:4644 rightStr:10
+chStr:10 freq:8 code:101011
+chStr:108464410115 freq:62 code:  leftStr:108464410 rightStr:115
+chStr:115 freq:32 code:1011
+chStr:1161001091211084644101159811739591021149732 freq:272 code:  leftStr:116100109121108464410115 rightStr:9811739591021149732
+chStr:98 freq:4 code:1100000
+chStr:981173959 freq:8 code:  leftStr:98 rightStr:1173959
+chStr:117 freq:2 code:11000010
+chStr:1173959 freq:4 code:  leftStr:117 rightStr:3959
+chStr:39 freq:1 code:110000110
+chStr:3959 freq:2 code:  leftStr:39 rightStr:59
+chStr:59 freq:1 code:110000111
+chStr:981173959102 freq:17 code:  leftStr:981173959 rightStr:102
+chStr:102 freq:9 code:110001
+chStr:981173959102114 freq:36 code:  leftStr:981173959102 rightStr:114
+chStr:114 freq:19 code:11001
+chStr:98117395910211497 freq:74 code:  leftStr:981173959102114 rightStr:97
+chStr:97 freq:38 code:1101
+chStr:9811739591021149732 freq:154 code:  leftStr:98117395910211497 rightStr:32
+chStr:32 freq:80 code:111
+chStr:101 freq:39 code:000
+chStr:66 freq:1 code:00100000
+chStr:72 freq:1 code:00100001
+chStr:6672 freq:2 code:  leftStr:66 rightStr:72
+chStr:83 freq:1 code:00100010
+chStr:120 freq:1 code:00100011
+chStr:83120 freq:2 code:  leftStr:83 rightStr:120
+chStr:667283120 freq:4 code:  leftStr:6672 rightStr:83120
+chStr:99 freq:5 code:001001
+chStr:66728312099 freq:9 code:  leftStr:667283120 rightStr:99
+chStr:112 freq:5 code:001010
+chStr:119 freq:5 code:001011
+chStr:112119 freq:10 code:  leftStr:112 rightStr:119
+chStr:66728312099112119 freq:19 
